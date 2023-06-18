@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-algorithm/java-algorithm.iml" filepath="$PROJECT_DIR$/java-algorithm/java-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring6.iml" filepath="$PROJECT_DIR$/spring6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring6-007-initialize.iml" filepath="$PROJECT_DIR$/spring6-007-initialize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring6-008-beanlifecycle.iml" filepath="$PROJECT_DIR$/spring6-008-beanlifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring6-009-circular-dependency.iml" filepath="$PROJECT_DIR$/spring6-009-circular-dependency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring6-012-annotation.iml" filepath="$PROJECT_DIR$/spring6-012-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring6-013-jdbc.iml" filepath="$PROJECT_DIR$/spring6-013-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring6-015-aop.iml" filepath="$PROJECT_DIR$/spring6-015-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring6-016-transaction.iml" filepath="$PROJECT_DIR$/spring6-016-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring6-017-junit5.iml" filepath="$PROJECT_DIR$/spring6-017-junit5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring6-018-mybatis.iml" filepath="$PROJECT_DIR$/spring6-018-mybatis.iml" />
+    </modules>
+  </component>
+</project>

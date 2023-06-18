@@ -1,0 +1,12 @@
+<Configuration name="ConfigTest" status="debug" monitorInterval="5">
+    <Appenders>
+        <console name="spring" target="SYSTEM_OUT">
+        </console>
+    </Appenders>
+
+    <Loggers>
+        <Root level="ERROR">
+            <AppenderRef ref="spring"/>
+        </Root>
+    </Loggers>
+</Configuration>

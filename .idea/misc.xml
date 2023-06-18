@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring6-001-revelation/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-002-first/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-002-dependency-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-004-scope/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-005-factory/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-007-initialize/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-008-beanlifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-009-circular-dependency/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-011-myspring/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-011-springframework/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-011-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-012-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-013-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-014-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-015-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-016-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-017-junit5/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-018-mybatis/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/spring6-011-myspring/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
